@@ -1,3 +1,6 @@
+# make a file key.env - and add api key there
+# exmaple this GEMINI_API_KEY=AQ.Ab8RN6I9YUkSJmNJkSjL44WpJdSfBxCg0ROjPDGsQYEhlnTExA
+
 from google import genai
 
 from dotenv import load_dotenv
